@@ -1,0 +1,32 @@
+.container{
+            height: 100vh;
+        }
+.header{
+    border-left: 3px solid black;
+    font-size: 0.7em;
+    margin-top: 20px;
+        }
+h2{
+    font-size: 1.5em;
+}
+.rowheight{
+    height: 100px;
+}
+.rowheight2{
+    height: 450px;
+}
+.seed{
+    color: deepskyblue;
+}
+.studio{
+    color: darkslategrey;
+    font-weight: bold;
+}
+.btn{
+    background-color: deepskyblue;
+    border: 0;
+    border-radius: 0;
+}
+.btn:hover{
+    background-color: darkblue;
+}
